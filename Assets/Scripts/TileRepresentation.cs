@@ -24,4 +24,9 @@ public class TileRepresentation
     {
         return slicedTile;
     }
+
+    public string GetName()
+    {
+        return "NAME";
+    }
 }
