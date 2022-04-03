@@ -27,6 +27,6 @@ public class TileRepresentation
 
     public string GetName()
     {
-        return "NAME";
+        return "NOT NAME";
     }
 }
